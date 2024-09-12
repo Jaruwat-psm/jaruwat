@@ -1,0 +1,101 @@
+h1 {
+    position: absolute;
+    font-size: 45px;
+  }
+  
+   h1:after {
+    position: absolute;
+    font-size: 45px;
+    content: "";
+    width: 100%;
+    height: 100%;
+    line-height: 48px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); /* เลื่อนไปกึ่งกลาง */
+    animation: abomination1 7.5s linear 1;
+    animation-fill-mode: forwards;
+  }
+  
+  
+  
+    @keyframes abomination1 {
+    0% {
+      content: "A";
+    }
+    4% {
+      content: "At";
+    }
+    8% {
+      content: "Att";
+    }
+    12% {
+      content: "Atte";
+    }
+    16% {
+      content: "Atten";
+    }
+    20% {
+      content: "Attent";
+    }
+    24% {
+      content: "Attenti";
+    }
+    28% {
+      content: "Attentio";
+    }
+    32% {
+      content: "Attention";
+    }
+    36% {
+      content: "Attention Please";
+    }
+    40% {
+      content: "Attention";
+    }
+    44% {
+      content: "Please";
+    }
+    48% {
+      content: "Attention Please";
+    }
+    /* 52% {
+      content: "The Typewriter";
+    }
+    56% {
+      content: "The Typewriter";
+    }
+    60% {
+      content: "The Typewriterr";
+    }
+    64% {
+      content: "The Typewriter";
+    }
+    68% {
+      content: "The Typewriter ";
+    }
+    72% {
+      content: "The Typewriter E";
+    }
+    76% {
+      content: "The Typewriter Ef";
+    }
+    80% {
+      content: "The Typewriter Efe";
+    }
+    84% {
+      content: "The Typewriter Efe";
+    }
+    88% {
+      content: "The Typewriter Eff";
+    }
+    92% {
+      content: "The Typewriter Effe";
+    }
+    96% {
+      content: "The Typewriter Effec";
+    }
+    100% {
+      content: "The Typewriter Effect";
+    } */
+  }
