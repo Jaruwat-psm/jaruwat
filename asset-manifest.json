@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/jaruwat/static/css/main.9efc7df3.css",
-    "main.js": "/jaruwat/static/js/main.10ece494.js",
+    "main.js": "/jaruwat/static/js/main.0a27e7b1.js",
     "static/js/453.da86b2a5.chunk.js": "/jaruwat/static/js/453.da86b2a5.chunk.js",
+    "static/media/Profile.jpg": "/jaruwat/static/media/Profile.818ea8d2d1c0800018b1.jpg",
     "index.html": "/jaruwat/index.html",
     "main.9efc7df3.css.map": "/jaruwat/static/css/main.9efc7df3.css.map",
-    "main.10ece494.js.map": "/jaruwat/static/js/main.10ece494.js.map",
+    "main.0a27e7b1.js.map": "/jaruwat/static/js/main.0a27e7b1.js.map",
     "453.da86b2a5.chunk.js.map": "/jaruwat/static/js/453.da86b2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9efc7df3.css",
-    "static/js/main.10ece494.js"
+    "static/js/main.0a27e7b1.js"
   ]
 }
